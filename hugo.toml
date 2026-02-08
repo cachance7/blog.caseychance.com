@@ -1,5 +1,11 @@
-baseURL = 'https://blog.caseychance.com'
+baseURL = 'https://blog.caseychance.com/'
 languageCode = 'en-us'
 title = 'Casey Chance Dev Diary'
 theme = "PaperMod"
 
+[outputs]
+home    = ["HTML", "RSS", "JSON"]
+section = ["HTML", "RSS"]
+taxonomy = ["HTML", "RSS"]
+term    = ["HTML", "RSS"]
+page    = ["HTML"]
