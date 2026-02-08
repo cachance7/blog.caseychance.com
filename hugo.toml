@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313'
+baseURL = 'https://blog.caseychance.com'
 languageCode = 'en-us'
 title = 'Casey Chance Dev Diary'
 theme = "PaperMod"
